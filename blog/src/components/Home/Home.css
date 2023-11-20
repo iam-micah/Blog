@@ -1,0 +1,18 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    padding: 40px;
+    background-color: var(--background-color);
+}
+
+.home-container h1 {
+    color: var(--primary-blue);
+    font-size: var(--font-size-large);
+    margin-bottom: 10px;
+}
+
+.home-container p {
+    color: var(--text-color);
+    font-size: var(--font-size-normal);
+}
